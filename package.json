@@ -1,0 +1,47 @@
+{
+  "name": "strve-rv",
+  "version": "0.1.0",
+  "description": "Strve-rv is a reactivity library for building user interfaces on the web.",
+  "main": "dist/strve-rv.esm.js",
+  "module": "dist/strve-rv.esm.js",
+  "unpkg": "dist/strve-rv.esm.js",
+  "jsdelivr": "dist/strve-rv.esm.js",
+  "author": "maomincoding",
+  "files": [
+    "dist/*.js"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "strve",
+    "strvejs",
+    "strve-js",
+    "strve-rv",
+    "reactivity",
+    "dom",
+    "mvvm",
+    "virtual dom",
+    "html",
+    "template",
+    "string"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strveJs/strve-rv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strveJs/strve-rv/issues"
+  },
+  "homepage": "https://github.com/strveJs/strve-rv#readme",
+  "dependencies": {
+    "@vue/reactivity": "3.5.12"
+  },
+  "devDependencies": {
+    "@rollup/plugin-replace": "^5.0.2",
+    "@rollup/plugin-terser": "^0.4.4",
+    "rollup": "^2.57.0"
+  }
+}
