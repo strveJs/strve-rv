@@ -2,9 +2,9 @@
 
 ## Introduce
 
-Strve-rv is a reactivity library for building user interfaces on the web. Powered by [@vue/reactivity](https://github.com/vuejs/core/tree/main/packages/reactivity) and [strve-js](https://github.com/strveJs/strve).
+Strve-rv is a reactivity library for building user interfaces on the web.
 
-......
+Powered by [@vue/reactivity](https://github.com/vuejs/core/tree/main/packages/reactivity) and [strve-js](https://github.com/strveJs/strve).
 
 ## Documentation
 
