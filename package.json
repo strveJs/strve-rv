@@ -1,6 +1,6 @@
 {
   "name": "strve-rv",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Strve-rv is a reactivity library for building user interfaces on the web.",
   "main": "dist/strve-rv.esm.js",
   "module": "dist/strve-rv.esm.js",
